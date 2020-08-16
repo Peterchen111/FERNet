@@ -1,2 +1,1 @@
-# FERNet
-Feature Enhancement And Refinement Network For Underwater Object Detection
+# Dual Refinement Underwater Object Detection Network
